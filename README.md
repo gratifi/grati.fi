@@ -10,6 +10,6 @@ Our first goal is to implement the model for a GNU/Linux distribution and make s
 
 We will be raising funds for the project on Counterparty.
 
-More details can be found in the [wiki](https://github.com/gratifi/grati.fi/wiki/grati.fi-wiki).
+More details can be found in the [wiki](https://github.com/gratifi/grati.fi/wiki/Description-of-consept).
 
 Discussion will eventually happen on reddit
