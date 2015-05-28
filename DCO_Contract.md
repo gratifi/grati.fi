@@ -25,7 +25,7 @@ The general categories of action are the following:
 
 Type of minor actions:  
  - Adjustments to strategy or timelines
- - Minor budget adjustments  ( < $25k )
+ - Minor budget adjustments  ( < €25k )
 
 Notification timeline:  
  - 2-7 day notice via email
@@ -36,7 +36,7 @@ Minor actions require a majority of voting members.
 ### Major actions
 
 Types of major actions:
- - Major budget adjustments ( > $50 - 250k ) 
+ - Major budget adjustments ( > €50 - 250k ) 
  - Election of an open delegate seat
 
 Notification timeline: 
@@ -51,7 +51,7 @@ Type of critical actions:
  - Issuance of new stakeholder rights
  - Adding new delegates 
  - Opening an additional funding round
- - Approval of budgets of greater than $250k 
+ - Approval of budgets of greater than €250k 
  - Removal of a delegate
  - Amendations to these bylaws 
 
